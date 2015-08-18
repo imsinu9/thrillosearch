@@ -8,6 +8,8 @@ class Tour < ActiveRecord::Base
 			indexes :ngrams_front, type: 'string', analyzer: 'name_front_ngram_analyzer'
 		end
 		indexes :tags, type: 'string'
+		indexes :code, type: 'string'
+		indexes :type, type: 'string'
 	end
 
 	belongs_to :city
@@ -31,5 +33,13 @@ class Tour < ActiveRecord::Base
 		if self.tag.present?
 			tags << self.tag.name 
 		end
+	end
+
+	def code
+		self.id
+	end
+
+	def type
+		'TR'
 	end
 end

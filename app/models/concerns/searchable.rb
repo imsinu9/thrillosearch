@@ -26,7 +26,8 @@ module Searchable
                     ]
                 }
             },
-            size: 6
+            size: 6,
+            fields: ['code', 'type', 'name']
         }
     end
 

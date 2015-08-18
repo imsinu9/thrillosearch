@@ -56,7 +56,7 @@ module Indexable
         def as_indexed_json(options={})
           as_json(
               only: [:name],
-              methods: [:tags]  
+              methods: [:tags, :code, :type]  
             )
         end
     end

@@ -7,6 +7,8 @@ class City < ActiveRecord::Base
           	indexes :ngrams_front, type: 'string', analyzer: 'name_front_ngram_analyzer'
       	end
       	indexes :tags, type: 'string'
+      	indexes :code, type: 'string'
+      	indexes :type, type: 'string'
     end
 
 	has_many :tours
@@ -17,4 +19,12 @@ class City < ActiveRecord::Base
 	after_commit :index_document, on: :create
 	after_commit :update_document, on: :update 
 	after_commit :delete_document, on: :destroy 
+
+	def code
+		self.id
+	end
+
+	def type
+		'CT'
+	end
 end
