@@ -1,0 +1,3578 @@
+{
+  "cities" : [
+    {
+        "name": "Kathgodam"
+
+
+    },
+    {
+        "name": "Keylong"
+
+
+    },
+    {
+        "name": "Shimla"
+
+
+    },
+    {
+        "name": "Thrissur"
+
+
+    },
+    {
+        "name": "Agatti Island"
+
+
+    },
+    {
+        "name": "Agra"
+
+
+    },
+    {
+        "name": "Ajmer"
+
+
+    },
+    {
+        "name": "Alleppey"
+
+
+    },
+    {
+        "name": "Antargange"
+
+
+    },
+    {
+        "name": "Bakhim"
+
+
+    },
+    {
+        "name": "Bangalore"
+
+
+    },
+    {
+        "name": "Bhaiarsar"
+
+
+    },
+    {
+        "name": "Bheemeshwari"
+
+
+    },
+    {
+        "name": "Bhopal"
+
+
+    },
+    {
+        "name": "Bikaner"
+
+
+    },
+    {
+        "name": "Chandigarh"
+
+
+    },
+    {
+        "name": "Chennai"
+
+
+    },
+    {
+        "name": "Chikmagalur"
+
+
+    },
+    {
+        "name": "Cochin"
+
+
+    },
+    {
+        "name": "Coimbatore"
+
+
+    },
+    {
+        "name": "Coorg"
+
+
+    },
+    {
+        "name": "Darjeeling"
+
+
+    },
+    {
+        "name": "Dharamshala"
+
+
+    },
+    {
+        "name": "Dibrugarh"
+
+
+    },
+    {
+        "name": "Gangtok"
+
+
+    },
+    {
+        "name": "Guwahati"
+
+
+    },
+    {
+        "name": "Haridwar"
+
+
+    },
+    {
+        "name": "Hemis"
+
+
+    },
+    {
+        "name": "Jaipur"
+
+
+    },
+    {
+        "name": "Jaisalmer"
+
+
+    },
+    {
+        "name": "Jodhpur"
+
+
+    },
+    {
+        "name": "Kalimpong"
+
+
+    },
+    {
+        "name": "Kalka"
+
+
+    },
+    {
+        "name": "Kanakpura"
+
+
+    },
+    {
+        "name": "Kanyakumari"
+
+
+    },
+    {
+        "name": "Kargil"
+
+
+    },
+    {
+        "name": "Kovalam Beach"
+
+
+    },
+    {
+        "name": "Kullu"
+
+
+    },
+    {
+        "name": "Lachung"
+
+
+    },
+    {
+        "name": "Leh"
+
+
+    },
+    {
+        "name": "Madikeri"
+
+
+    },
+    {
+        "name": "Malana"
+
+
+    },
+    {
+        "name": "Manali"
+
+
+    },
+    {
+        "name": "Manchinbele"
+
+
+    },
+    {
+        "name": "Marayur"
+
+
+    },
+    {
+        "name": "Munnar"
+
+
+    },
+    {
+        "name": "Mussoorie"
+
+
+    },
+    {
+        "name": "Mysore"
+
+
+    },
+    {
+        "name": "Nainital"
+
+
+    },
+    {
+        "name": "New Jalpaiguri"
+
+
+    },
+    {
+        "name": "Ooty"
+
+
+    },
+    {
+        "name": "Pasighat"
+
+
+    },
+    {
+        "name": "Pelling"
+
+
+    },
+    {
+        "name": "Pondicherry"
+
+
+    },
+    {
+        "name": "Port Blair"
+
+
+    },
+    {
+        "name": "Ramnagar"
+
+
+    },
+    {
+        "name": "Rampur"
+
+
+    },
+    {
+        "name": "Ranakpur"
+
+
+    },
+    {
+        "name": "Rishikesh"
+
+
+    },
+    {
+        "name": "Ross Island"
+
+
+    },
+    {
+        "name": "Sangar"
+
+
+    },
+    {
+        "name": "Sawai Madhopuri"
+
+
+    },
+    {
+        "name": "Shillong"
+
+
+    },
+    {
+        "name": "Srinagar"
+
+
+    },
+    {
+        "name": "Tezpur"
+
+
+    },
+    {
+        "name": "Trivandrum"
+
+
+    },
+    {
+        "name": "Tuting"
+
+
+    },
+    {
+        "name": "Udaipur"
+
+
+    },
+    {
+        "name": "Udupi"
+
+
+    },
+    {
+        "name": "Uttarakshi"
+
+
+    },
+    {
+        "name": "Viper Island"
+
+
+    },
+    {
+        "name": "Wayanad"
+
+
+    },
+    {
+        "name": "Yingkiong"
+
+
+    },
+    {
+        "name": "Almora"
+
+
+    },
+    {
+        "name": "Palakkad"
+
+
+    },
+    {
+        "name": "Chamarajanagar"
+
+
+    },
+    {
+        "name": "Upper Siang"
+
+
+    },
+    {
+        "name": "Chikmanglur"
+
+
+    },
+    {
+        "name": "Lahaul"
+
+
+    },
+    {
+        "name": "Tinsukia"
+
+
+    },
+    {
+        "name": "Sawai Madhopur"
+
+
+    },
+    {
+        "name": "Pathankot"
+
+
+    },
+    {
+        "name": "Malappuram"
+
+
+    },
+    {
+        "name": "Mandvi"
+
+
+    },
+    {
+        "name": "Hazaribagh"
+
+
+    },
+    {
+        "name": "Siang"
+
+
+    },
+    {
+        "name": "Tawang"
+
+
+    },
+    {
+        "name": "Miao"
+
+
+    },
+    {
+        "name": "Kuttanad"
+
+
+    },
+    {
+        "name": "Umaria"
+
+
+    },
+    {
+        "name": "Kolkata"
+
+
+    },
+    {
+        "name": "Jorhat"
+
+
+    },
+    {
+        "name": "Karjat"
+
+
+    },
+    {
+        "name": "Aritar"
+
+
+    },
+    {
+        "name": "Chungthang"
+
+
+    },
+    {
+        "name": "Malbazar"
+
+
+    },
+    {
+        "name": "Bokaro"
+
+
+    },
+    {
+        "name": "Uttarkashi"
+
+
+    },
+    {
+        "name": "Jhansi"
+
+
+    },
+    {
+        "name": "Idukki"
+
+
+    },
+    {
+        "name": "Kottayam"
+
+
+    },
+    {
+        "name": "Tuticorin"
+
+
+    },
+    {
+        "name": "Kochi"
+
+
+    },
+    {
+        "name": "Kunnamkulam"
+
+
+    },
+    {
+        "name": "Dindigul"
+
+
+    },
+    {
+        "name": "Pollachi"
+
+
+    },
+    {
+        "name": "Thalassery"
+
+
+    },
+    {
+        "name": "Kannur"
+
+
+    },
+    {
+        "name": "Elephant Beach"
+
+
+    },
+    {
+        "name": "Dehradun"
+
+
+    },
+    {
+        "name": "Pithoragarh"
+
+
+    },
+    {
+        "name": "Tatanagar"
+
+
+    },
+    {
+        "name": "Kuflon"
+
+
+    },
+    {
+        "name": "Barkot"
+
+
+    },
+    {
+        "name": "Badrinath"
+
+
+    },
+    {
+        "name": "Garhwal"
+
+
+    },
+    {
+        "name": "Bageshwar"
+
+
+    },
+    {
+        "name": "Kedarnath"
+
+
+    },
+    {
+        "name": "Chamoli"
+
+
+    },
+    {
+        "name": "Nanda Devi"
+
+
+    },
+    {
+        "name": "Gaumukh"
+
+
+    },
+    {
+        "name": "Chamba"
+
+
+    },
+    {
+        "name": "Dausa"
+
+
+    },
+    {
+        "name": "Meerut"
+
+
+    },
+    {
+        "name": "Kalsi"
+
+
+    },
+    {
+        "name": "Kumarakom"
+
+
+    },
+    {
+        "name": "kanthalloor"
+
+
+    },
+    {
+        "name": "Dandeli"
+
+
+    },
+    {
+        "name": "Radhanagar & Vijaynagar Beaches"
+
+
+    },
+    {
+        "name": "Auroville"
+
+
+    },
+    {
+        "name": "Cherrapunji"
+
+
+    },
+    {
+        "name": "East Kameng"
+
+
+    },
+    {
+        "name": "Kapurthala"
+
+
+    },
+    {
+        "name": "Kinnaur"
+
+
+    },
+    {
+        "name": "Kumily"
+
+
+    },
+    {
+        "name": "Lohit"
+
+
+    },
+    {
+        "name": "Mandla"
+
+
+    },
+    {
+        "name": "Pattan"
+
+
+    },
+    {
+        "name": "Raja Iftikhar Abad"
+
+
+    },
+    {
+        "name": "Sanga Choeling"
+
+
+    },
+    {
+        "name": "Sonitpur"
+
+
+    },
+    {
+        "name": "Thiruvananthapuram"
+
+
+    },
+    {
+        "name": "Vellore"
+
+
+    },
+    {
+        "name": "New Delhi"
+
+
+    },
+    {
+        "name": "Thanjavur"
+
+
+    },
+    {
+        "name": "Coonoor"
+
+
+    },
+    {
+        "name": "Mangalore"
+
+
+    },
+    {
+        "name": "Thiruvannamalai"
+
+
+    },
+    {
+        "name": "Hospet"
+
+
+    },
+    {
+        "name": "Salem"
+
+
+    },
+    {
+        "name": "Kasaragod"
+
+
+    },
+    {
+        "name": "Candolim Beach"
+
+
+    },
+    {
+        "name": "Mahabalipuram"
+
+
+    },
+    {
+        "name": "Yelahanka"
+
+
+    },
+    {
+        "name": "Gokarna"
+
+
+    },
+    {
+        "name": "Byndoor"
+
+
+    },
+    {
+        "name": "Mapusa"
+
+
+    },
+    {
+        "name": "Calangute"
+
+
+    },
+    {
+        "name": "Ladakh"
+
+
+    },
+    {
+        "name": "Yelagiri"
+
+
+    },
+    {
+        "name": "Mizoram"
+
+
+    },
+    {
+        "name": "Mandawa"
+
+
+    },
+    {
+        "name": "Bundi"
+
+
+    },
+    {
+        "name": "Chittorgarh"
+
+
+    },
+    {
+        "name": "Lumi"
+
+
+    },
+    {
+        "name": "Gajner"
+
+
+    },
+    {
+        "name": "Spituk"
+
+
+    },
+    {
+        "name": "Rumbak"
+
+
+    },
+    {
+        "name": "Ankola "
+
+
+    },
+    {
+        "name": "Yambong"
+
+
+    },
+    {
+        "name": "Masinagudi"
+
+
+    },
+    {
+        "name": "Yercaud"
+
+
+    },
+    {
+        "name": "Karwar"
+
+
+    },
+    {
+        "name": "Calicut"
+
+
+    },
+    {
+        "name": "Ponnampet"
+
+
+    },
+    {
+        "name": "Kushalnagar"
+
+
+    },
+    {
+        "name": "Bandipur"
+
+
+    },
+    {
+        "name": "Meenangadi"
+
+
+    },
+    {
+        "name": "Panaji"
+
+
+    },
+    {
+        "name": "Siolim"
+
+
+    },
+    {
+        "name": "Ponda"
+
+
+    },
+    {
+        "name": "Anjuna"
+
+
+    },
+    {
+        "name": "Nuvem"
+
+
+    },
+    {
+        "name": "Dhana"
+
+
+    },
+    {
+        "name": "Murudeshwara"
+
+
+    },
+    {
+        "name": "Yana"
+
+
+    },
+    {
+        "name": "Bhubaneswar"
+
+
+    },
+    {
+        "name": "Puri"
+
+
+    },
+    {
+        "name": "Simlipal"
+
+
+    },
+    {
+        "name": "Bhitarkanika"
+
+
+    },
+    {
+        "name": "pipli"
+
+
+    },
+    {
+        "name": "Cuttack"
+
+
+    },
+    {
+        "name": "Rayagada"
+
+
+    },
+    {
+        "name": "Konark"
+
+
+    },
+    {
+        "name": "Dimapur"
+
+
+    },
+    {
+        "name": "Kohima"
+
+
+    },
+    {
+        "name": "Changki"
+
+
+    },
+    {
+        "name": "Johrat"
+
+
+    },
+    {
+        "name": "Jabalpur"
+
+
+    },
+    {
+        "name": "Gwalior"
+
+
+    },
+    {
+        "name": "Belgaum"
+
+
+    },
+    {
+        "name": "Madurai"
+
+
+    },
+    {
+        "name": "Pune"
+
+
+    },
+    {
+        "name": "Kodaikanal"
+
+
+    },
+    {
+        "name": "Nileshwaram"
+
+
+    },
+    {
+        "name": "Thekkady"
+
+
+    },
+    {
+        "name": "Sakhleshpur"
+
+
+    },
+    {
+        "name": "Castlerock"
+
+
+    }
+  ],
+  "tags" : [
+    {
+        "name": "Nature Walk"
+
+
+    },
+    {
+        "name": "Wildlife Safari"
+
+
+    },
+    {
+        "name": "Meditation"
+
+
+    },
+    {
+        "name": "Sightseeing"
+
+
+    },
+    {
+        "name": "Camping"
+
+
+    },
+    {
+        "name": "Waterfalls Visit"
+
+
+    },
+    {
+        "name": "Spice Plantation Tour"
+
+
+    },
+    {
+        "name": "Birding"
+
+
+    },
+    {
+        "name": "Jumaring"
+
+
+    },
+    {
+        "name": "Rope Traversing"
+
+
+    },
+    {
+        "name": "Outbound Training"
+
+
+    },
+    {
+        "name": "Beach Activities"
+
+
+    },
+    {
+        "name": "Village Tour"
+
+
+    },
+    {
+        "name": "Jungle Survival"
+
+
+    },
+    {
+        "name": "Elephant Safari"
+
+
+    },
+    {
+        "name": "Pottery Making"
+
+
+    },
+    {
+        "name": "Water Sports"
+
+
+    },
+    {
+        "name": "Boating"
+
+
+    },
+    {
+        "name": "Plantation walk"
+
+
+    },
+    {
+        "name": "Angling"
+
+
+    },
+    {
+        "name": "Archery"
+
+
+    },
+    {
+        "name": "Desert Safari"
+
+
+    },
+    {
+        "name": "Yoga"
+
+
+    },
+    {
+        "name": "Ayurvedic Massage"
+
+
+    },
+    {
+        "name": "Cultural Music and Dance"
+
+
+    },
+    {
+        "name": "Cooking Lessons"
+
+
+    },
+    {
+        "name": "Houseboat Cruise"
+
+
+    },
+    {
+        "name": "Bamboo Rafting"
+
+
+    },
+    {
+        "name": "Backwater Cruise"
+
+
+    },
+    {
+        "name": "Cycling"
+
+
+    },
+    {
+        "name": "Jet Skiing"
+
+
+    },
+    {
+        "name": "Fishing"
+
+
+    },
+    {
+        "name": "Biking"
+
+
+    },
+    {
+        "name": "Zorbing"
+
+
+    },
+    {
+        "name": "Paragliding"
+
+
+    },
+    {
+        "name": "Jungle Safari"
+
+
+    },
+    {
+        "name": "Sea Kayaking"
+
+
+    },
+    {
+        "name": "Raft Building"
+
+
+    },
+    {
+        "name": "Rock Climbing"
+
+
+    },
+    {
+        "name": "Kayaking"
+
+
+    },
+    {
+        "name": "Ziplining"
+
+
+    },
+    {
+        "name": "Rappelling"
+
+
+    },
+    {
+        "name": "ATV Ride"
+
+
+    },
+    {
+        "name": "Paintball"
+
+
+    },
+    {
+        "name": "Skydiving"
+
+
+    },
+    {
+        "name": "Yak Safari"
+
+
+    },
+    {
+        "name": "Jeep Safari"
+
+
+    },
+    {
+        "name": "Mountain Climbing"
+
+
+    },
+    {
+        "name": "River Crossing"
+
+
+    },
+    {
+        "name": "Monastery Tour"
+
+
+    },
+    {
+        "name": "Road Trip"
+
+
+    },
+    {
+        "name": "Mountain Biking"
+
+
+    },
+    {
+        "name": "Camel Safari"
+
+
+    },
+    {
+        "name": "Hiking"
+
+
+    },
+    {
+        "name": "Rafting"
+
+
+    },
+    {
+        "name": "Waterfall Rappelling"
+
+
+    },
+    {
+        "name": "Coracle ride"
+
+
+    },
+    {
+        "name": "Trekking"
+
+
+    },
+    {
+        "name": "Snorkeling"
+
+
+    },
+    {
+        "name": "Team Building Activities"
+
+
+    },
+    {
+        "name": "Scuba Diving"
+
+
+    },
+    {
+        "name": "Homestays"
+
+
+    },
+    {
+        "name": "Tent Stays"
+
+
+    },
+    {
+        "name": "Beach Resorts"
+
+
+    },
+    {
+        "name": "Experiences"
+
+
+    },
+    {
+        "name": "Responsible Travel"
+
+
+    },
+    {
+        "name": "Team Outing"
+
+
+    },
+    {
+        "name": "Leisure"
+
+
+    },
+    {
+        "name": "Cultural Tours"
+
+
+    },
+    {
+        "name": "Adventure"
+
+
+    },
+    {
+        "name": "Ayurveda and Spa"
+
+
+    },
+    {
+        "name": "Day Tours"
+
+
+    },
+    {
+        "name": "Outdoor Learning"
+
+
+    },
+    {
+        "name": "WildlifeTours"
+
+
+    },
+    {
+        "name": "Beach Holidays"
+
+
+    },
+    {
+        "name": "Multi cuisine"
+
+
+    },
+    {
+        "name": "Indian food"
+
+
+    },
+    {
+        "name": "Vegetarian"
+
+
+    },
+    {
+        "name": "International Traveller"
+
+
+    },
+    {
+        "name": "Corporate Team"
+
+
+    },
+    {
+        "name": "Domestic Traveller"
+
+
+    },
+    {
+        "name": "North India"
+
+
+    },
+    {
+        "name": "North East"
+
+
+    },
+    {
+        "name": "South India"
+
+
+    },
+    {
+        "name": "Central India"
+
+
+    },
+    {
+        "name": "East India"
+
+
+    },
+    {
+        "name": "Camping_x000D_"
+
+
+    },
+    {
+        "name": "Ayurveda & Spa"
+
+
+    },
+    {
+        "name": "Corporate Team Team"
+
+
+    },
+    {
+        "name": "Children riendly"
+
+
+    },
+    {
+        "name": "Temple Exploration"
+
+
+    },
+    {
+        "name": "Outdoor Games"
+
+
+    },
+    {
+        "name": "Coastal Cruise"
+
+
+    },
+    {
+        "name": "Dolphin Spotting"
+
+
+    },
+    {
+        "name": "Featured"
+
+
+    },
+    {
+        "name": "Karnataka-Trekking"
+
+
+    },
+    {
+        "name": "Theme Team Building"
+
+
+    },
+    {
+        "name": "Kids-Activities"
+
+
+    },
+    {
+        "name": "Tiger Safari"
+
+
+    },
+    {
+        "name": "Tea Plantation Tour"
+
+
+    },
+    {
+        "name": "Golden Triangle"
+
+
+    },
+    {
+        "name": "North East Wildlife"
+
+
+    },
+    {
+        "name": "High Rope Traversing"
+
+
+    },
+    {
+        "name": "Caving"
+
+
+    },
+    {
+        "name": "History, Art & Architecture"
+
+
+    },
+    {
+        "name": "History"
+
+
+    },
+    {
+        "name": "Art & Architecture"
+
+
+    },
+    {
+        "name": "Wine tour"
+
+
+    },
+    {
+        "name": "Kite Surfing"
+
+
+    },
+    {
+        "name": "Banana Boat Ride"
+
+
+    },
+    {
+        "name": "Crocodile Spotting"
+
+
+    },
+    {
+        "name": "Walking Tour"
+
+
+    },
+    {
+        "name": "Quad Biking"
+
+
+    },
+    {
+        "name": "Parasailing"
+
+
+    },
+    {
+        "name": "West India"
+
+
+    },
+    {
+        "name": "Surfing"
+
+
+    },
+    {
+        "name": "Bangalore Day Outings"
+
+
+    },
+    {
+        "name": "Adventure in Bangalore"
+
+
+    },
+    {
+        "name": "Corporate Team Outing around Bangalore"
+
+
+    },
+    {
+        "name": "Markha Valley Trekking"
+
+
+    },
+    {
+        "name": "Photography"
+
+
+    },
+    {
+        "name": "Bumpy Ride"
+
+
+    },
+    {
+        "name": "Air Rifle Shooting"
+
+
+    },
+    {
+        "name": "Food Tour"
+
+
+    },
+    {
+        "name": "Cruise"
+
+
+    },
+    {
+        "name": "Adventures"
+
+
+    },
+    {
+        "name": "2013"
+
+
+    },
+    {
+        "name": "Adventure Team Outing"
+
+
+    },
+    {
+        "name": "Breakfast by the Lake"
+
+
+    },
+    {
+        "name": "Valentine's Day Special"
+
+
+    },
+    {
+        "name": "Excursion"
+
+
+    },
+    {
+        "name": "Bangalore Deals"
+
+
+    },
+    {
+        "name": "helicopter ride"
+
+
+    },
+    {
+        "name": "2014"
+
+
+    },
+    {
+        "name": "mountain safari"
+
+
+    },
+    {
+        "name": "Cruising"
+
+
+    },
+    {
+        "name": "Relaxing"
+
+
+    },
+    {
+        "name": "Swimming"
+
+
+    },
+    {
+        "name": "Boat Ride"
+
+
+    },
+    {
+        "name": "White Water Rafting"
+
+
+    },
+    {
+        "name": "Forest Walk"
+
+
+    },
+    {
+        "name": "Sunset View"
+
+
+    },
+    {
+        "name": "Visit Beaches"
+
+
+    },
+    {
+        "name": "Visit Hill Station"
+
+
+    },
+    {
+        "name": "Elephant Spotting"
+
+
+    },
+    {
+        "name": "Romantic Dinner"
+
+
+    },
+    {
+        "name": "Hill Station Tour"
+
+
+    },
+    {
+        "name": "Wildlife Visit"
+
+
+    },
+    {
+        "name": "Leisure Activities"
+
+
+    },
+    {
+        "name": "Game Safari"
+
+
+    },
+    {
+        "name": "Gipsy Safari"
+
+
+    },
+    {
+        "name": "Houseboat sailing"
+
+
+    },
+    {
+        "name": "Beach Sports"
+
+
+    },
+    {
+        "name": "Exploration"
+
+
+    },
+    {
+        "name": "Visit Sacred Temples"
+
+
+    },
+    {
+        "name": "Glorious Forts"
+
+
+    },
+    {
+        "name": "Imposing Palaces"
+
+
+    },
+    {
+        "name": "Explore Palaces"
+
+
+    },
+    {
+        "name": "Temple Visits"
+
+
+    },
+    {
+        "name": "Historical Tour"
+
+
+    },
+    {
+        "name": "Palace Exploration"
+
+
+    },
+    {
+        "name": "Wildlife Spotting"
+
+
+    },
+    {
+        "name": "Excursions"
+
+
+    },
+    {
+        "name": "Houseboat Tour"
+
+
+    },
+    {
+        "name": "Nature Tours"
+
+
+    },
+    {
+        "name": "Village Tours"
+
+
+    },
+    {
+        "name": "Walking Tours"
+
+
+    },
+    {
+        "name": "Houseboat Cruising"
+
+
+    },
+    {
+        "name": "Adventure Activities"
+
+
+    },
+    {
+        "name": "Plantation Visit"
+
+
+    },
+    {
+        "name": "Visit Jungles"
+
+
+    },
+    {
+        "name": "See Birdlife"
+
+
+    },
+    {
+        "name": "Visit Beach"
+
+
+    },
+    {
+        "name": "Tour Spice Plantations"
+
+
+    },
+    {
+        "name": "Boat Safari"
+
+
+    },
+    {
+        "name": "Houseboat Stay"
+
+
+    },
+    {
+        "name": "Sight Seeing"
+
+
+    },
+    {
+        "name": "Wildlife Tour"
+
+
+    },
+    {
+        "name": "Chimney Climbing"
+
+
+    },
+    {
+        "name": "Backstreet Walk"
+
+
+    },
+    {
+        "name": "Seek new Experiences"
+
+
+    },
+    {
+        "name": "Bikes Rides"
+
+
+    },
+    {
+        "name": "Visit Monasteries"
+
+
+    },
+    {
+        "name": "Explore Tea Gardens"
+
+
+    },
+    {
+        "name": "Safaris"
+
+
+    },
+    {
+        "name": "Night Trekking"
+
+
+    },
+    {
+        "name": "Bonfire"
+
+
+    },
+    {
+        "name": "Cave Exploration"
+
+
+    },
+    {
+        "name": "Canoeing"
+
+
+    },
+    {
+        "name": "Fort Tour"
+
+
+    },
+    {
+        "name": "Commando Walk"
+
+
+    },
+    {
+        "name": "Savour Delectable Foods and Drinks"
+
+
+    },
+    {
+        "name": "Glazing"
+
+
+    },
+    {
+        "name": "Spraying"
+
+
+    },
+    {
+        "name": "Brushwork"
+
+
+    },
+    {
+        "name": "Paddling"
+
+
+    },
+    {
+        "name": "Spa treatment"
+
+
+    },
+    {
+        "name": "Handling clay"
+
+
+    },
+    {
+        "name": "Learn pinching method"
+
+
+    },
+    {
+        "name": "Learn coiling"
+
+
+    },
+    {
+        "name": "Make coiled pot"
+
+
+    },
+    {
+        "name": "Surface decoration"
+
+
+    },
+    {
+        "name": "Slab making"
+
+
+    },
+    {
+        "name": "Wedging"
+
+
+    },
+    {
+        "name": "Centering"
+
+
+    },
+    {
+        "name": "Trimming"
+
+
+    },
+    {
+        "name": "Altering Basic Shapes"
+
+
+    },
+    {
+        "name": "Visit to Black Magic Temple"
+
+
+    },
+    {
+        "name": "Visit to Snake Temple"
+
+
+    },
+    {
+        "name": "Tour local markets"
+
+
+    },
+    {
+        "name": "Baking"
+
+
+    },
+    {
+        "name": "Tasting"
+
+
+    },
+    {
+        "name": "Tube Rafting"
+
+
+    },
+    {
+        "name": "Obstacle River Crossing"
+
+
+    },
+    {
+        "name": "Backwater Hiking"
+
+
+    },
+    {
+        "name": "Rope activities"
+
+
+    },
+    {
+        "name": "Target shooting"
+
+
+    },
+    {
+        "name": "Cake Decoration"
+
+
+    },
+    {
+        "name": "Night Camp"
+
+
+    },
+    {
+        "name": "Half Day Tour"
+
+
+    },
+    {
+        "name": "Bird Watching"
+
+
+    },
+    {
+        "name": "Horse Trip"
+
+
+    },
+    {
+        "name": "Food and Wine"
+
+
+    },
+    {
+        "name": "Nightlife"
+
+
+    },
+    {
+        "name": "Walking and Biking"
+
+
+    },
+    {
+        "name": "Outdoor Activities"
+
+
+    },
+    {
+        "name": "Team Experiences"
+
+
+    },
+    {
+        "name": "Cruises Sailing and Water Tours"
+
+
+    },
+    {
+        "name": "Air, Helicopter, paragliding and Balloon Tours "
+
+
+    },
+    {
+        "name": "Sports Tours"
+
+
+    },
+    {
+        "name": "Cultural Performance"
+
+
+    },
+    {
+        "name": "Horse Safari"
+
+
+    },
+    {
+        "name": "Helicopter"
+
+
+    },
+    {
+        "name": "paragliding and Balloon Tours"
+
+
+    },
+    {
+        "name": "Horse Riding"
+
+
+    }
+  ],
+  "tours" : [
+    {
+        "name": "Baralacha La",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Chopta",
+
+        "city_name": "rishikesh"
+    },
+    {
+        "name": "Chunnambar water sports complex",
+
+        "city_name": "pondicherry"
+    },
+    {
+        "name": "Dudhatoli",
+
+        "city_name": "garhwal"
+    },
+    {
+        "name": "Dzongri La",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Ghoom Monastery",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Hemis Monasteries",
+
+        "city_name": "hemis"
+    },
+    {
+        "name": "Hemis National Park",
+
+        "city_name": "hemis"
+    },
+    {
+        "name": "Jhirna",
+
+        "city_name": "ramnagar"
+    },
+    {
+        "name": "Kang Yatse",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Khardung La",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Likir Monastery",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Lohachaur",
+
+        "city_name": "ramnagar"
+    },
+    {
+        "name": "Matrimandir",
+
+        "city_name": "auroville"
+    },
+    {
+        "name": "Nagar Castle",
+
+        "city_name": "kullu"
+    },
+    {
+        "name": "Parambikulam Wildlife Sanctuary",
+
+        "city_name": "palakkad"
+    },
+    {
+        "name": "Periyar River",
+
+        "city_name": "idukki"
+    },
+    {
+        "name": "Pondicherry Musuem",
+
+        "city_name": "pondicherry"
+    },
+    {
+        "name": "Spiti",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Thiksey",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Alaknanda River",
+
+        "city_name": "garhwal"
+    },
+    {
+        "name": "Alchi Gompa",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Anamudi shola national park",
+
+        "city_name": "idukki"
+    },
+    {
+        "name": "Assi Ganga",
+
+        "city_name": "uttarkashi"
+    },
+    {
+        "name": "Bagdogra",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Banasura Sagar Dam",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Basgo Monastery",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Basgo Palace",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Beas Kund",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Beas Kund Base Camp",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Bhagirathi",
+
+        "city_name": "garhwal"
+    },
+    {
+        "name": "Bhlaukphong",
+
+        "city_name": "tezpur"
+    },
+    {
+        "name": "Bhuntar",
+
+        "city_name": "kullu"
+    },
+    {
+        "name": "Brahmaputra",
+
+        "city_name": "dibrugarh"
+    },
+    {
+        "name": "Cave Krem Mawkhyrdop",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Chander",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Chandra Tal",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Chewabhanjyang",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Chhitkul",
+
+        "city_name": "kinnaur"
+    },
+    {
+        "name": "Chilling",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Chinnar Valley",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Chinnar Wild Life Sanctuary",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Chumiknakpo",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Corbett National Park",
+
+        "city_name": "ramnagar"
+    },
+    {
+        "name": "Darcha",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Deepyokma",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Deoria Tal",
+
+        "city_name": "rishikesh"
+    },
+    {
+        "name": "Devikulam",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Devprayag",
+
+        "city_name": "garhwal"
+    },
+    {
+        "name": "Dhankar Fort",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Havelock",
+
+        "city_name": "port-blair"
+    },
+    {
+        "name": "Himalayan Mountaineering Institute",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Indira Gandhi Wildlife Sanctuary",
+
+        "city_name": "coimbatore"
+    },
+    {
+        "name": "Indus",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Jagatsukh Temple",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Kanha National Park",
+
+        "city_name": "mandla"
+    },
+    {
+        "name": "Karzok Monastery",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Kaziranga National Park",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Khangchendzonga National Park",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Khecheopalri Lake",
+
+        "city_name": "pelling"
+    },
+    {
+        "name": "Kongmaru la",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Krem Chympe",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Liat Prah",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Lubon",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Lymput",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Mawjymbuin",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Mawshun",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Shrieh",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Syndai",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Umkseh",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Krem Umthloo",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Kungri Gompa",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Laitlum (Nongkrem)",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Lama dugh",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Lamayuru",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Hanupatta",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Photoskar",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Lingshed",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Pishu",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Karsha",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Lanak",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Lhabha Tarum Tsachu",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Lingshed gompa",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Mcleodganj",
+
+        "city_name": "dharamshala"
+    },
+    {
+        "name": "Mattupetty Hills",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Mawphlang",
+
+        "city_name": "shillong"
+    },
+    {
+        "name": "Mawsmai Cave",
+
+        "city_name": "cherrapunji"
+    },
+    {
+        "name": "Milam Glacier",
+
+        "city_name": "pithoragarh"
+    },
+    {
+        "name": "Mt. Thingchinkhang",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Mullayanagiri",
+
+        "city_name": "chikmanglur"
+    },
+    {
+        "name": "Nalknad Palace",
+
+        "city_name": "coorg"
+    },
+    {
+        "name": "Nameri National Park",
+
+        "city_name": "sonitpur"
+    },
+    {
+        "name": "Nanda Devi Peak",
+
+        "city_name": "chamoli"
+    },
+    {
+        "name": "Padum",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Parambikulam Sanctuary",
+
+        "city_name": "palakkad"
+    },
+    {
+        "name": "Periyar Sanctuary",
+
+        "city_name": "idukki"
+    },
+    {
+        "name": "Peshok Tea Garden",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Phey",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Mankarmo",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Pinchimic Lake",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Pindar Valley",
+
+        "city_name": "bageshwar"
+    },
+    {
+        "name": "Pindari Glacier",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Pipalkoti",
+
+        "city_name": "badrinath"
+    },
+    {
+        "name": "Pushkar",
+
+        "city_name": "ajmer"
+    },
+    {
+        "name": "Pykara Lake",
+
+        "city_name": "ooty"
+    },
+    {
+        "name": "Ravangla",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Rajamalai Wildlife Sanctuary",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Rakuruk",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Rangdum",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Ranthambore National Park",
+
+        "city_name": "sawai-madhopur"
+    },
+    {
+        "name": "Recongpeo",
+
+        "city_name": "kinnaur"
+    },
+    {
+        "name": "Rimbik",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Rizong Gompa",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Roopkund",
+
+        "city_name": "chamoli"
+    },
+    {
+        "name": "Pangong Lake",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Nimo",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Rumbak Valley",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Rumtek Monastery",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Rupsho",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Sangam Chatti",
+
+        "city_name": "uttarkashi"
+    },
+    {
+        "name": "Sani Gompa",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Saspotse",
+
+        "city_name": "raja-iftikhar-abad"
+    },
+    {
+        "name": "Seku village",
+
+        "city_name": "uttarkashi"
+    },
+    {
+        "name": "Seppa",
+
+        "city_name": "east-kameng"
+    },
+    {
+        "name": "Sevoke",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Shang sumdo",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Shey Palace",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Siliguri",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Sitabani",
+
+        "city_name": "ramnagar"
+    },
+    {
+        "name": "Snertse",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Sokmikchik",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Sri Aurobindo Ashram",
+
+        "city_name": "pondicherry"
+    },
+    {
+        "name": "Stok Palace",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Sumdo Chenmo",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Tabo",
+
+        "city_name": "lahaul"
+    },
+    {
+        "name": "Tadiyandamol",
+
+        "city_name": "coorg"
+    },
+    {
+        "name": "Tezu",
+
+        "city_name": "lohit"
+    },
+    {
+        "name": "Thachungtse",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Thattekkad Sanctuary",
+
+        "city_name": "kochi"
+    },
+    {
+        "name": "Thekkady",
+
+        "city_name": "kumily"
+    },
+    {
+        "name": "Thellikkal Forest",
+
+        "city_name": "pollachi"
+    },
+    {
+        "name": "Tholung Valley",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Thoonakkadavu",
+
+        "city_name": "coimbatore"
+    },
+    {
+        "name": "Thoovanam Waterfalls",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Tibba",
+
+        "city_name": "kapurthala"
+    },
+    {
+        "name": "Tiger Hill",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Tilgam",
+
+        "city_name": "pattan"
+    },
+    {
+        "name": "Tisaling",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Tiuni",
+
+        "city_name": "uttarkashi"
+    },
+    {
+        "name": "Tonglu",
+
+        "city_name": "darjeeling"
+    },
+    {
+        "name": "Tosar Lake",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Triund",
+
+        "city_name": "dharamshala"
+    },
+    {
+        "name": "Tsarap Chu",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Tshokha",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Tsokar",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Tsokha",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Tsomoriri",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Uleytokpo",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Unda",
+
+        "city_name": "jaisalmer"
+    },
+    {
+        "name": "Vaniyambadi",
+
+        "city_name": "vellore"
+    },
+    {
+        "name": "Varkala beach",
+
+        "city_name": "thiruvananthapuram"
+    },
+    {
+        "name": "Vashisht",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Vembanad",
+
+        "city_name": "kochi"
+    },
+    {
+        "name": "Versey",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Walong",
+
+        "city_name": "tinsukia"
+    },
+    {
+        "name": "Wandoor",
+
+        "city_name": "malappuram"
+    },
+    {
+        "name": "Wonder Valley",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Markha Valley",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Stok Kangri ",
+
+        "city_name": "ladakh"
+    },
+    {
+        "name": "Manas National Park",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Gibbon Wildlife Sanctuary",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Saikhowa National Park",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Namdhapa National Park",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Deban Trek",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Dehing Patkai Wildlife Reserve",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Jaypore Rainforest",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Red Fort",
+
+        "city_name": "new-delhi"
+    },
+    {
+        "name": "Qutub Minar",
+
+        "city_name": "new-delhi"
+    },
+    {
+        "name": "Lotus Temple",
+
+        "city_name": "new-delhi"
+    },
+    {
+        "name": "Taj Mahal",
+
+        "city_name": "agra"
+    },
+    {
+        "name": "Fatehpur Sikri",
+
+        "city_name": "agra"
+    },
+    {
+        "name": "Jaipur City Palace",
+
+        "city_name": "jaipur"
+    },
+    {
+        "name": "Amer Fort",
+
+        "city_name": "jaipur"
+    },
+    {
+        "name": "Chokhi Dhani",
+
+        "city_name": "jaipur"
+    },
+    {
+        "name": "Jantar Mantar",
+
+        "city_name": "jaipur"
+    },
+    {
+        "name": "Jal Mahal",
+
+        "city_name": "jaipur"
+    },
+    {
+        "name": "Goechala",
+
+        "city_name": "new-jalpaiguri"
+    },
+    {
+        "name": "yuksom",
+
+        "city_name": "new-jalpaiguri"
+    },
+    {
+        "name": "Singalila",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Tholung",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Tosar Lake Trek",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Versay",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Khanchendzonga Trek",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Green Lake",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Bandhavgarh ",
+
+        "city_name": "bhopal"
+    },
+    {
+        "name": "Osian",
+
+        "city_name": "jodhpur"
+    },
+    {
+        "name": "Kemmanagundi ",
+
+        "city_name": "chikmagalur"
+    },
+    {
+        "name": "Zingchen Valley",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Nubra",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Indus River",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Savandurga",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Dzongri",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Zemuchu",
+
+        "city_name": "gangtok"
+    },
+    {
+        "name": "Nagarhole National Park",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Banasura",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Bandipur National Park",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Chadar Trek",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Chalungdo Nidder Trek",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Kariyan Chola",
+
+        "city_name": "munnar"
+    },
+    {
+        "name": "Zanskar",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Friendship Peak ",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Vythiri Retreat",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Matho Phu",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Dzo Jongo",
+
+        "city_name": "ladakh"
+    },
+    {
+        "name": "Ghat",
+
+        "city_name": "chamoli"
+    },
+    {
+        "name": "Joshimath",
+
+        "city_name": "rishikesh"
+    },
+    {
+        "name": "Auli",
+
+        "city_name": "dehradun"
+    },
+    {
+        "name": "Rohtang Pass",
+
+        "city_name": "manali"
+    },
+    {
+        "name": "Alchi",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Mawlynnong ",
+
+        "city_name": "guwahati"
+    },
+    {
+        "name": "Majuli Island",
+
+        "city_name": "dibrugarh"
+    },
+    {
+        "name": "Temisgam ",
+
+        "city_name": "leh"
+    },
+    {
+        "name": "Uravu",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Soochipara",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Sunrise Valley",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Karapuzha Dam",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Kuruva Island",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Banasura Hill",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Kotebetta",
+
+        "city_name": "madikeri"
+    },
+    {
+        "name": "Tholpetty Wildlife Sanctuary",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Iruppu Falls",
+
+        "city_name": "ponnampet"
+    },
+    {
+        "name": "Muthanga Wildlife Sanctuary",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Phantom Rock",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Valnoor Fishing",
+
+        "city_name": "kushalnagar"
+    },
+    {
+        "name": "Thirunelli Temple ",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Barapole Rafting",
+
+        "city_name": "ponnampet"
+    },
+    {
+        "name": "Dubare Rafting",
+
+        "city_name": "madikeri"
+    },
+    {
+        "name": "Thusharagiri Trekking",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Mandalpatti Trek",
+
+        "city_name": "madikeri"
+    },
+    {
+        "name": "Chembra Peak",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Chain Tree",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Edakkal Cave",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Neelimala View Point",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Kedakkal",
+
+        "city_name": "madikeri"
+    },
+    {
+        "name": "Pakshipathalam Trek",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Pookode Lake",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Jain Temple",
+
+        "city_name": "wayanad"
+    },
+    {
+        "name": "Bandipur Safari",
+
+        "city_name": "bandipur"
+    },
+    {
+        "name": "Green Heritage Walk",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Mysore Palace",
+
+        "city_name": "mysore"
+    },
+    {
+        "name": "Mysore Railway Museum",
+
+        "city_name": "mysore"
+    },
+    {
+        "name": "Mysore Zoo",
+
+        "city_name": "mysore"
+    },
+    {
+        "name": "Camping in Modern Hill district club",
+
+        "city_name": "meenangadi"
+    },
+    {
+        "name": "Kalari Massage",
+
+        "city_name": "calicut"
+    },
+    {
+        "name": "Kalaripayattu training",
+
+        "city_name": "thiruvananthapuram"
+    },
+    {
+        "name": "Kerala Spice Plantations",
+
+        "city_name": "thiruvananthapuram"
+    },
+    {
+        "name": "Masinagudi wildlife",
+
+        "city_name": "coonoor"
+    },
+    {
+        "name": "Bangalore Walk",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Nandi Hills",
+
+        "city_name": "bangalore"
+    },
+    {
+        "name": "Mysore Walks",
+
+        "city_name": "mysore"
+    },
+    {
+        "name": "Civet Creek Camp",
+
+        "city_name": "madikeri"
+    },
+    {
+        "name": "Bogmalo Beach",
+
+        "city_name": "panaji"
+    },
+    {
+        "name": "Mysore Cycling Tour",
+
+        "city_name": "mysore"
+    },
+    {
+        "name": "Baina Beach",
+
+        "city_name": "panaji"
+    },
+    {
+        "name": "Arambol Beach",
+
+        "city_name": "panaji"
+    },
+    {
+        "name": "Chelavara Falls",
+
+        "city_name": "madikeri"
+    },
+    {
+        "name": "Muzhappilangad Beach",
+
+        "city_name": "kannur"
+    },
+    {
+        "name": "Baga Beach",
+
+        "city_name": "panaji"
+    },
+    {
+        "name": "Butterfly Park in Ponda",
+
+        "city_name": "ponda"
+    },
+    {
+        "name": "Flea Market",
+
+        "city_name": "panaji"
+    },
+    {
+        "name": "Anjuna Beach",
+
+        "city_name": "panaji"
+    }
+  ]
+}
