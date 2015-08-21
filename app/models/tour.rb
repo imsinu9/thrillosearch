@@ -3,7 +3,7 @@ class Tour < ActiveRecord::Base
 	include Searchable
 
 	mappings do
-		indexes :name, type: 'multi_field' do 
+		indexes :name, type: 'multi_field' do
 			indexes :name_default, type: 'string', analyzer: 'name_default_analyzer'
 			indexes :ngrams_front, type: 'string', analyzer: 'name_front_ngram_analyzer'
 		end
@@ -16,20 +16,18 @@ class Tour < ActiveRecord::Base
 	validates_presence_of :city, :name
 
 	after_commit :index_document, on: :create
-	after_commit :update_document, on: :update 
-	after_commit :delete_document, on: :destroy 
+	after_commit :update_document, on: :update
+	after_commit :delete_document, on: :destroy
 
 	class << self
 		def search(query)
 			Searchable.search(query).results
-		end		
+		end
 	end
 
 	def tags
-		tags = [self.city.name]
+		tags = self.city.name.downcase.split(" ")
 
-		if self.tag.present?
-			tags << self.tag.name 
-		end
+		tags.concat(self.tag.name.downcase.split(" ")) if self.tag.present?
 	end
 end

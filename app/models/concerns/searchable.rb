@@ -14,6 +14,7 @@ module Searchable
                             query_string: {
                                 fields: fields,
                                 allow_leading_wildcard: false,
+                                analyzer: "name_default_analyzer",
                                 query: q
                             }
                         },
