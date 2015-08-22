@@ -20,8 +20,8 @@ module Searchable
                         },
                         {
                             terms: {
-                                tags: tags(q),
-                                minimum_should_match: tags(q).length
+                                tags: build_tags(q),
+                                minimum_should_match: '2<60%'
                             }
                         }
                     ]
@@ -39,7 +39,7 @@ module Searchable
         ['name.name_default^3', 'name.ngrams_front']
     end
 
-    def self.tags(query)
+    def self.build_tags(query)
         filtered_tags = Stopword::filter(query)
     end
 end

@@ -29,5 +29,7 @@ class Tour < ActiveRecord::Base
 		tags = self.city.name.downcase.split(" ")
 
 		tags.concat(self.tag.name.downcase.split(" ")) if self.tag.present?
+
+		tags
 	end
 end
