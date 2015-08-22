@@ -3,18 +3,19 @@
 Thrill-O-Search, is an sample app build to test my skills over ROR and ES. This helps to search intelligently over catalogue Tour, City, Tag.
 Where Tours are tagged with many tags and cities. Currently seeded with Indian Tours data. We can say something like Taj in Agra and should bring result like TajMahal also Agra as City under different hood.
 
-* Ruby version
+* RUBY VERSION
     2.0.0p481
 
-* System dependencies
+* SYSTEM DEPENDENCIES
     Rails 4, Ruby 2.0.0, Elastisearch, 9200 port should listen ES.
 
-* Configuration
+* CONFIGURATION
 
-* Database setup
+* DATABASE SETUP
     rake es:setup && rake db:seed
 
-* How to run the test suite
+* HOW TO RUN THE TEST SUITE
+    rails server
     http://localhost:3000/search?q=taj%20in%20agra
 
 Please feel free to use a different markup language if you do not plan to run
