@@ -20,8 +20,8 @@ module Searchable
                         },
                         {
                             terms: {
-                                tags: tag_builder(q),
-                                minimum_should_match: tag_length(q)
+                                tags: tags(q),
+                                minimum_should_match: tags(q).length
                             }
                         }
                     ]
@@ -39,11 +39,7 @@ module Searchable
         ['name.name_default^3', 'name.ngrams_front']
     end
 
-    def self.tag_builder(query)
-        query.split(' ')
-    end
-
-    def self.tag_length(query)
-        query.split(' ').length
+    def self.tags(query)
+        filtered_tags = Stopword::filter(query)
     end
 end

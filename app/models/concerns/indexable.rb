@@ -9,7 +9,7 @@ module Indexable
         document_type self.table_name
 
         settings index: {
-            number_of_shards: 1, 
+            number_of_shards: 1,
             number_of_replicas: 0,
             analysis: {
               tokenizer: {
@@ -23,22 +23,26 @@ module Indexable
                   type: "edgeNGram",
                   min_gram: 1,
                   max_gram: 15
+                },
+                stopwords_filter: {
+                  type: "stop",
+                  stopwords: Stopword.list
                 }
               },
               analyzer: {
                 name_default_analyzer: {
-                  type: "custom", 
-                  tokenizer: "name_tokenizer", 
-                  filter: ["lowercase", "asciifolding", "word_delimiter"]
+                  type: "custom",
+                  tokenizer: "name_tokenizer",
+                  filter: ["lowercase", "asciifolding", "word_delimiter", "stopwords_filter"]
                 },
                 name_front_ngram_analyzer: {
-                  type: "custom", 
+                  type: "custom",
                   tokenizer: "name_tokenizer",
                   filter: ["lowercase", "asciifolding", "name_ngram_filter"]
                 }
               }
             }
-          } do 
+          } do
         end
 
         def index_document(options={})
@@ -56,7 +60,7 @@ module Indexable
         def as_indexed_json(options={})
           as_json(
               only: [:name],
-              methods: [:tags]  
+              methods: [:tags]
             )
         end
     end
