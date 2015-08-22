@@ -1573,6 +1573,11 @@
 
     },
     {
+        "name": "Historical"
+
+
+    },
+    {
         "name": "Art & Architecture"
 
 
@@ -3102,7 +3107,9 @@
     {
         "name": "Red Fort",
 
-        "city_name": "new-delhi"
+        "city_name": "new-delhi",
+
+        "tag_name": "Historical"
     },
     {
         "name": "Qutub Minar",
@@ -3112,17 +3119,23 @@
     {
         "name": "Lotus Temple",
 
-        "city_name": "new-delhi"
+        "city_name": "new-delhi",
+
+        "tag_name": "Historical"
     },
     {
         "name": "Taj Mahal",
 
-        "city_name": "agra"
+        "city_name": "agra",
+
+        "tag_name": "Historical"
     },
     {
         "name": "Fatehpur Sikri",
 
-        "city_name": "agra"
+        "city_name": "agra",
+
+        "tag_name": "Historical"
     },
     {
         "name": "Jaipur City Palace",
@@ -3142,7 +3155,9 @@
     {
         "name": "Jantar Mantar",
 
-        "city_name": "jaipur"
+        "city_name": "jaipur",
+
+        "tag_name": "Historical"
     },
     {
         "name": "Jal Mahal",
