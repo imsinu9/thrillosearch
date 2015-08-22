@@ -16,6 +16,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'elasticsearch-model'
 gem 'elasticsearch-rails'
 
+# Stopwords
+gem 'stopwords-filter'
+
 group :development do
 
   # Access an IRB console on exception pages or by using <%= console %> in views
@@ -25,4 +28,3 @@ group :development do
   gem 'spring'
   gem 'annotate', '~> 2.6.6'
 end
-
