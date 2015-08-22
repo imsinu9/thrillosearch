@@ -9,14 +9,9 @@ Where Tours are tagged with many tags and cities. Currently seeded with Indian T
 * SYSTEM DEPENDENCIES
     Rails 4, Ruby 2.0.0, Elastisearch, 9200 port should listen ES.
 
-* CONFIGURATION
-
 * DATABASE SETUP
-    rake es:setup && rake db:seed
+    rake db:migrate && rake es:setup && rake db:seed
 
 * HOW TO RUN THE TEST SUITE
     rails server
-    http://localhost:3000/search?q=taj%20in%20agra
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+    http://localhost:3000/search?sz=6&q=taj%20in%20agra

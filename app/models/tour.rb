@@ -20,8 +20,8 @@ class Tour < ActiveRecord::Base
 	after_commit :delete_document, on: :destroy
 
 	class << self
-		def search(query)
-			Searchable.search(query).results
+		def search(query, per = 6)
+			Searchable.search(query, per).results
 		end
 	end
 

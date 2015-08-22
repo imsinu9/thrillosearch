@@ -1,11 +1,11 @@
 module Searchable
     extend ActiveSupport::Concern
 
-    def self.search(query)
-        Elasticsearch::Model.search( search_query(query), types, options={}).results
+    def self.search(query, per)
+        Elasticsearch::Model.search( search_query(query, per), types, options={}).results
     end
 
-    def self.search_query(q)
+    def self.search_query(q, per)
        query = {
             query: {
                 bool: {
@@ -27,7 +27,7 @@ module Searchable
                     ]
                 }
             },
-            size: 6
+            size: per
         }
     end
 
