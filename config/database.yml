@@ -24,4 +24,4 @@ production:
     adapter: pg
     pool: 5
     timeout: 5000
-    database: thrilosearch_prod
+    url: <%= ENV['DATABASE_URL'] %>
