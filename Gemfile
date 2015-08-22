@@ -34,5 +34,5 @@ end
 
 group :production do
     gem 'thin'
-    gem 'postgres-pr'
+    gem 'pg'
 end
